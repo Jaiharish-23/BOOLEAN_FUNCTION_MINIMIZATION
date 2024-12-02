@@ -38,6 +38,7 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by: JAI HARISH R
 RegisterNumber: 24006817
 */
+
 ```
 module boolean_function_minimization(a, b, c, d, w, x, y, z, f1, f2);
 input a, b, c, d, w, x, y, z;

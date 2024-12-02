@@ -40,8 +40,6 @@ RegisterNumber: 24006817
 */
 
 ```
-
-
 module boolean_function_minimization(a, b, c, d, w, x, y, z, f1, f2);
 input a, b, c, d, w, x, y, z;
 output f1, f2;

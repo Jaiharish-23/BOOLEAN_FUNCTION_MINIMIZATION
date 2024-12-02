@@ -14,7 +14,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
+**Theory:**
+
+
 Implementing Boolean functions in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results
 
 **Procedure**
